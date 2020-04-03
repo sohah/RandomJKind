@@ -1,3 +1,5 @@
+JKind versio with random Z3 initial seed.
+
 JKind
 =====
 
